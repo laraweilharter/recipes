@@ -1,6 +1,6 @@
 #Guacamole
 
-#Ingredients
+##Ingredients
 - 2 avocado 
 - 1 small onion 
 - 1 tomato
@@ -11,3 +11,5 @@
 - koriander to taste
 
 ## Instructions
+- cut the tomato in super small bits
+- press the avocado
