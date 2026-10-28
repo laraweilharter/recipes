@@ -10,6 +10,8 @@
 - cumin
 - koriander to taste
 
+But avocados are expensive 
+
 ## Instructions
 - cut the tomato in super small bits
 - press the avocado
