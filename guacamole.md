@@ -13,5 +13,6 @@
 But avocados are expensive 
 
 ## Instructions
+* put one avocado into a bowl
 - cut the tomato in super small bits
 - press the avocado
